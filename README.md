@@ -2,6 +2,10 @@
 
 A polished product studio landing page for teams that need web products, automation and dependable delivery. The experience uses a cinematic dark visual system, responsive layouts, interactive motion and a clear conversion path.
 
+[Live demo](https://stassinsergey-lang.github.io/neuralforge-studio/) · [Source](https://github.com/stassinsergey-lang/neuralforge-studio)
+
+![NeuralForge interface](assets/cover.png)
+
 ## Highlights
 
 - Responsive single-page product site
